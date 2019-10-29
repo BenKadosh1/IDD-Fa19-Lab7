@@ -14,8 +14,11 @@
 
 Below are links to two text files: the diff output for the two files, and a file with my own highlevel overview of the major changes. 
 
-[Diff Output]()
-[Highlevel Changes]()
+
+[Diff Output](https://github.com/BenKadosh1/IDD-Fa19-Lab7/blob/master/Diff%20output.txt)
+
+[Highlevel Changes](https://github.com/BenKadosh1/IDD-Fa19-Lab7/blob/master/Changes.txt)
+
 
 In summary, the major changes relate to elements being added to pictureServer, which include creating variables to start up the webcam, adding functionality to take a picture with the webcam, and displaying the image to the web browser.
 
