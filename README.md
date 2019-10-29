@@ -23,7 +23,7 @@ Below are links to two text files: the diff output for the two files, and a file
 In summary, the major changes relate to elements being added to pictureServer, which include creating variables to start up the webcam, adding functionality to take a picture with the webcam, and displaying the image to the web browser.
 
 **b. Include a video of your working video doorbell**
-[Working Doorbell - Youtube Link]()
+[Working Doorbell - Youtube Link](https://www.youtube.com/watch?v=5QJP0RMQwsg&feature=youtu.be)
 
 ## Part C. Make it your own
 
